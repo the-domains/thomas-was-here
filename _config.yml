@@ -1,0 +1,28 @@
+name: Thomas Was Here
+favicon: null
+layout_spectrum: 0.5832406058907509
+typography_spectrum: 0.7443259810097516
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.19015130936168134
+  lightness: 0.6315677303355187
+  saturation: 0.5722657085862011
+  rhythmicContrast: 0.18586351280100644
+purpose: []
